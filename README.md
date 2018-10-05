@@ -27,11 +27,10 @@ listening for pathchanged events
 ```javascript
 window.addEventListener("pathchanged", _ => {
     console.log(window.location.pathname);
-	})
-	```
+})
 
-	## Props
-
+```
+## Attributes
 
 ##### to
 The url gets set to the path of the `to` attribute whenever the element is clicked.
