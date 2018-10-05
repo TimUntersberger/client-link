@@ -1,0 +1,11 @@
+{
+  "name": "client-link",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "TimUntersberger",
+  "repository": {
+	  "type": "git",
+	  "url": ""
+  },
+  "license": "ISC"
+}
