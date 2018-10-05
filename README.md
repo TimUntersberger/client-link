@@ -3,8 +3,11 @@
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/owner/my-element)
 
 Client-link is a simple webcomponent for client side routing. 
+
 The component uses the history api to update the url and dispatches the `pathchanged` event whenever the element is clicked.
+
 It also adds the `active` class to itself when the url matches the path specified.
+
 
 ## Installation
 
