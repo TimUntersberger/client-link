@@ -32,7 +32,7 @@ window.addEventListener("pathchanged", _ => {
 ```
 ## Attributes
 
-#### to
+### to
 The url gets set to the path of the `to` attribute whenever the element is clicked.
 ```html
 <client-route to="/"></client-route>
